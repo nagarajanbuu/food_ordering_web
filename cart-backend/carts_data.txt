@@ -1,0 +1,36 @@
+Cart saved at 2025-01-12 23:06:31
+Cart Saved At: 2025-01-12 23:07:50.144555
+Cart Saved At: 2025-01-12 23:09:53.309253
+Item Name: Pizza, Price: ₹ 250
+
+Cart Saved At: 2025-01-12 23:10:20.830953
+Item Name: Pizza, Price: ₹ 250
+Item Name: Burger, Price: ₹ 200
+Item Name: French Fries, Price: ₹ 100
+
+Cart Saved At: 2025-01-12 23:13:07.028258
+Item Name: Pizza, Price: ₹ 250
+Item Name: Burger, Price: ₹ 200
+
+Cart Saved At: 2025-01-12 23:13:23.728466
+Item Name: Pizza, Price: ₹ 250
+
+Cart Saved At: 2025-01-12 23:15:20.773829
+Item Name: Chocolate Ice Cream, Price: ₹ 90
+Item Name: Chocolate Ice Cream, Price: ₹ 90
+Item Name: Rasgulla, Price: ₹ 60
+
+Cart Saved At: 2025-01-12 23:18:25.907383
+Item Name: Burger, Price: ₹ 200
+Total Price: ₹ 200
+
+Cart Saved At: 2025-01-13 12:56:03.506859
+Item Name: Sushi, Price: ₹ 400
+Item Name: Noodles, Price: ₹ 150
+Total Price: ₹ 550
+
+Cart Saved At: 2025-01-13 12:56:42.027187
+Item Name: Sushi, Price: ₹ 400
+Item Name: Noodles, Price: ₹ 150
+Total Price: ₹ 550
+

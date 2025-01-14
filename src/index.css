@@ -1,0 +1,33 @@
+/* Reset Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Global Styles */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f9f9f9;
+}
+
+h1, h2, h3, h4 {
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Media Queries for Responsiveness */
+@media (max-width: 768px) {
+  .hero {
+    padding: 40px 10px;
+  }
+
+  .category-buttons button {
+    padding: 8px 15px;
+    font-size: 14px;
+  }
+}
